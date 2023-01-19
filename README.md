@@ -1,2 +1,2 @@
-# sad
-sasd
+# Amaliyot
+Amaliyot
